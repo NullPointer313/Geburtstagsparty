@@ -214,121 +214,40 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":8,
          "firstgid":1,
-         "image":"floortileset.png",
-         "imageheight":256,
-         "imagewidth":256,
-         "margin":0,
-         "name":"floortileset",
-         "spacing":0,
-         "tilecount":64,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"floortileset.tsx"
         }, 
         {
-         "columns":16,
          "firstgid":65,
-         "image":"rc3-mullana-objects.png",
-         "imageheight":256,
-         "imagewidth":512,
-         "margin":0,
-         "name":"rc3-mullana-objects",
-         "spacing":0,
-         "tilecount":128,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"rc3-mullana-objects.tsx"
         }, 
         {
-         "columns":2,
          "firstgid":193,
-         "image":"rc3-table.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"rc3-table",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"rc3-table.tsx"
         }, 
         {
-         "columns":7,
          "firstgid":197,
-         "image":"rc3-minideko.png",
-         "imageheight":416,
-         "imagewidth":224,
-         "margin":0,
-         "name":"rc3-minideko",
-         "spacing":0,
-         "tilecount":91,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"rc3-minideko.tsx"
         }, 
         {
-         "columns":4,
          "firstgid":288,
-         "image":"jukebox.png",
-         "imageheight":384,
-         "imagewidth":144,
-         "margin":0,
-         "name":"jukebox",
-         "spacing":0,
-         "tilecount":48,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"jukebox.tsx"
         }, 
         {
-         "columns":32,
          "firstgid":336,
-         "image":"terrain_atlas.png",
-         "imageheight":1024,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"terrain_atlas",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"terrain_atlas.tsx"
         }, 
         {
-         "columns":32,
          "firstgid":1360,
-         "image":"base_out_atlas.png",
-         "imageheight":1024,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"base_out_atlas",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"base_out_atlas.tsx"
         }, 
         {
-         "columns":16,
          "firstgid":2384,
-         "image":"tilesets_deviant_milkian_1.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_1",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets_deviant_milkian_1.tsx"
         }, 
         {
-         "columns":8,
          "firstgid":2640,
-         "image":"candyshop.png",
-         "imageheight":480,
-         "imagewidth":256,
-         "margin":0,
-         "name":"candyshop",
-         "spacing":0,
-         "tilecount":120,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"candyshop.tsx"
         }],
  "tilewidth":32,
  "type":"map",
