@@ -21,6 +21,12 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nullpointer313.github.io\/Geburtstagsparty\/welcome.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -37,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/welcome.html"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/nullpointer313.github.io\/Geburtstagsparty\/welcome.html"
                 }],
          "type":"tilelayer",
          "visible":true,
